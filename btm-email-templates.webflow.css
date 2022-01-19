@@ -1,0 +1,81 @@
+.container {
+  max-width: 600px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #f3f3f3;
+}
+
+.title {
+  font-family: 'Ubuntu Mono', sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  text-align: left;
+}
+
+.title.sub {
+  font-size: 30px;
+}
+
+.div-block {
+  margin-right: 30px;
+  margin-left: 30px;
+  background-color: #f3f3f3;
+}
+
+.div-block.next {
+  margin-top: 30px;
+  background-color: #000;
+}
+
+.body {
+  font-family: 'Ubuntu Mono', sans-serif;
+}
+
+.text-block {
+  font-size: 16px;
+}
+
+.paragraph.subhead {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.div-block-2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+
+.grid-block {
+  width: 30%;
+}
+
+.heading {
+  padding-top: 20px;
+  border-top: 1px solid #000;
+}
+
+.div-block-3 {
+  position: absolute;
+  background-color: #070707;
+}
+
+.image {
+  opacity: 0.58;
+}
+
+.button {
+  position: absolute;
+  left: 42%;
+  top: 50%;
+  right: 42%;
+  background-color: #fff;
+  color: #000;
+  text-align: center;
+}
+
