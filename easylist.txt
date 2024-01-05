@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Checksum: l7pENfb7PEM2dQ+6Y5G8sQ
 ! Version: 202401051851
-! Title: EasyList
+! Title: EasyList Katlyn
 ! Last modified: 05 Jan 2024 18:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
